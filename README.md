@@ -50,4 +50,9 @@ Bazaar is a random item and Heroku-ish name generator implemented in Python. Thi
 	'tranquil-sands-2378'
 	>>> 
 
+
+## Run the tests
+
+    python setup.py test
+
 [bazaar]: https://github.com/raycchan/bazaar

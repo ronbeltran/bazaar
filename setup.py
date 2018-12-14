@@ -8,4 +8,7 @@ setup(name='bazaar',
       author_email='rbbeltran.09@gmail.com',
       license='MIT',
       packages=['bazaar'],
-      zip_safe=False)
+      zip_safe=False,
+      test_suite='nose.collector',
+      tests_require=['nose'],
+      )
